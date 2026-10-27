@@ -86,7 +86,7 @@ To run the notebook and reproduce the analysis, ensure the following Python libr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/predictive-modeling-customer-bookings.git
+   git clone https://github.com/your-username/British-Airways-Data-Science.git
    ```
 2. Navigate to the project directory and launch Jupyter Notebook:
    ```bash
